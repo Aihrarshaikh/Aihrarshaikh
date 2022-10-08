@@ -1,7 +1,7 @@
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aihrarshaikh&include_all_commits=true&count_private=true&border_radius=8&theme=codeSTACKr&include_all_commits=true&&hide=issues" />
 </a>
-<h1 align="center">Hi 👋, I'm Aihar Shaikh</h1>
+<h1 align="center">Hi 👋, I'm Aihrar Shaikh</h1>
 <h3 align="center">Competitive programmer I Android enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aihrarshaikh&label=Profile%20views&color=0e75b6&style=flat" alt="aihrarshaikh" /> </p>
