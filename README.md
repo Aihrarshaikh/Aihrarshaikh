@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 💬 Ask me about **Flutter , Competitive Programming**
+- 💬 Ask me about **cross platform and native android development, DSA**
 
 - 📫 How to reach me **aihrarshaikh1208@gmail.com**
 
