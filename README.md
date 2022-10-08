@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aihrarshaikh](https://github.com/Aihrarshaikh)
-
 - 💬 Ask me about **Flutter , Competitive Programming**
 
 - 📫 How to reach me **aihrarshaikh1208@gmail.com**
